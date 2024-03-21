@@ -1,0 +1,2 @@
+ciao = 'Bella'
+print(ciao)
